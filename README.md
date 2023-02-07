@@ -1,6 +1,6 @@
 # Assessment
 
-Create a simple Travel Insurance web application  written in either Angular or React The application should have the following features:
+Create a simple Travel Insurance web application  written in either Angular or React. The application should have the following features:
 1. Show a list of travel insurance packages with their benefits
 2. A form for adding packages (should include the list of benefits and  an option to upload any supporting document)
 3. Ability to edit and delete added insurance packages
